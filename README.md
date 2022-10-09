@@ -1,2 +1,2 @@
 # DataScienceCourseKNU
-##Repository for Applied Data Analytics
+### Repository for Applied Data Analytics
