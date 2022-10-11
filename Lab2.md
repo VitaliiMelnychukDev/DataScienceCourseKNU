@@ -52,6 +52,7 @@ print(v[v > 0])
 ```
 ### 2. Створити фрейм (data frame) y командою y <- data.frame(a = rnorm(100), b = 1:100, cc = sample(letters, 100, replace = TRUE)). Для цього data frame виведіть: останні 10 строк; строки з 10 по 20 включно; 10-й елемент
 ```
+y <- data.frame(a = rnorm(100), b = 1:100, cc = sample(letters, 100, replace = TRUE))
 print("Останні 10 строк: ")
 print(tail(y, 10))
 print("Строки з 10 по 20 включно ")
