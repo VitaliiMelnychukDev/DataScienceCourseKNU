@@ -1,4 +1,4 @@
-# Laboratory work 1
+# Лабораторна робота 1
 
 ### 1. Створити змінні базових (atomic) типів. Базові типи: character, numeric, integer, complex, logical.
 ```
